@@ -78,7 +78,7 @@ text-shadow: none !important;
 .btn{
 padding: 0.5em 1em;
 border: none;
-border-radius: 2px;
+border-radius: 4px;
 cursor: pointer;
 transition: 0.3s;
 }
@@ -188,6 +188,12 @@ width: 16px;
 color:red;
 }
 
+.loading {
+  width: 300px;
+  max-width: fit-content;
+  font-size: 50px;
+  margin: auto;
+}
 
 
 
